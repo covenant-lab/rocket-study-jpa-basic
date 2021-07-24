@@ -65,7 +65,7 @@
                 섹션 2. JPA 시작하기
             </td>
             <td>
-                (정비 시간 및 Self study)
+                (정비 및 Self study)
             </td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@
             </td>
             <td>
                 섹션 3. 영속성 관리 <code>전체</code> <br />
-                섹션 4. 엔티티 매핑 <code>영속성 컨텍스트 2 까지</code> <br />
+                섹션 4. 엔티티 매핑 <code>데이터베이스 스키마 자동 생성 까지</code> <br />
             </td>
             <td>
                 -
