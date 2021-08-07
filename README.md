@@ -10,22 +10,15 @@
 
 <br />
 
+## 📖 무엇을 공부할까?
 
-
-## 🎯 학습 대상
-
-- [[김영한] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic) (주 70분+ 분량)
-- 참고 도서: [[김영한: ]자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
-- 권장 병수: [[김영한] 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
-  - 인프런 로드맵에서 야생형 코스를 따를 경우 해당 강의를 수강후 JPA 기본편 수업을 수강할 것을 권장합니다.
-  - 하나의 프로젝트를 강의를 보면서 따라가며 JPA를 실습하는 것이기에 스터디에서 다루지 않습니다. 
-  - 해당 강의를 들으면서 나누고 싶은 이야기, 궁금한 이야기가 있다면 함께 이야기하면 되겠습니다.
-
-
+- 필수 학습: [[김영한] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic) (주 70분+ 분량)
+- 선택 학습
+    - [Hibernate ORM Documentation](http://hibernate.org/orm/documentation/5.5/)
+    - [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
+    - [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
 
 <br />
-
-
 
 ## 😀 참가 맴버
 
@@ -36,7 +29,7 @@
     <td align="center"><a href="https://github.com/jihyunhillpark"><img src="https://avatars.githubusercontent.com/u/29705409?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jihyunPark</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/osj3474"><img src="https://avatars.githubusercontent.com/u/42775225?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sangjin Oh
 </b></sub></a><br /></td>
-    <!-- <td align="center"><a href="https://github.com/tongnamuu"><img src="https://avatars.githubusercontent.com/u/33937684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tongnamuu</b></sub></a><br /></td> -->
+    <td align="center"><a href="https://github.com/Joylish"><img src="https://avatars.githubusercontent.com/u/52230415?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joylish</b></sub></a><br /></td>
     <!-- <td align="center"><a href="https://github.com/yu-jin-song"><img src="https://avatars.githubusercontent.com/u/74666378?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yujin Song
 </b></sub></a><br /></td> -->
 </tr>
@@ -65,7 +58,7 @@
                 섹션 2. JPA 시작하기
             </td>
             <td>
-                (정비 및 Self study)
+                (Self study)
             </td>
         </tr>
         <tr>
@@ -196,7 +189,7 @@
 
 ## ✏️ 스터디 준비 방식
 
-A, B 타입 중에서 원하는 방식으로 준비하시면 됩니다. 
+A ~ D 타입 중에서 원하는 방식으로 준비하시면 됩니다. 
 
 - __Type A.__ 강의 요약 정리하여 발표(PPT, Markdown, Blog Post) (강의를 따라가기 어렵다면 질문만 준비해도 됩니다!)
 - __Type B.__ 강의 주제에 대해서 심화 & 파생개념을 공부해보고 발표
@@ -209,11 +202,8 @@ A, B 타입 중에서 원하는 방식으로 준비하시면 됩니다.
 <br />
 
 <!-- Bottom -->
-
 <hr />
-
 <div align=center>
-    <h3> 로켓학습 | JPA 정복반 </h3>
+    <h3> 로켓 학습 | JPA 정복반 </h3>
 </div>
-
 <hr />
