@@ -1,5 +1,5 @@
 <h1>
-■ [로켓학습] JPA - 기본편
+■ [로켓 학습] JPA - 기본편
 </h1>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 📖 무엇을 공부할까?
 
-- 필수 학습: [[김영한] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic) (주 70분+ 분량)
+- 필수 학습: [[김영한] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
 - 선택 학습
-    - [Hibernate ORM Documentation](http://hibernate.org/orm/documentation/5.5/)
-    - [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
-    - [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
+    - 문서: [Hibernate ORM Documentation](http://hibernate.org/orm/documentation/5.5/)
+    - 도서: [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1), [Github Code](https://github.com/holyeye/jpabook)
+    - 강의: [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
 
 <br />
 
@@ -71,7 +71,7 @@
                 섹션 4. 엔티티 매핑 <code>데이터베이스 스키마 자동 생성 까지</code> <br />
             </td>
             <td>
-                -
+                Covenant: <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week1"> 하이버네이트, 캐시 </a>
             </td>
         </tr>
         <tr>
@@ -80,7 +80,8 @@
                 (08/21 10:30)
             </td>
             <td>
-                섹션 4. 엔티티 매핑 <code> 남은 강의 전체 </code> <br />
+                섹션 4. 엔티티 매핑 <code> 필드와 컬럼 매핑 </code> <br />
+                섹션 5. <code> 양방향 연관관계와 연관관계의 주인 1- 기본 </code>
             </td>
             <td>
                 -
@@ -92,7 +93,8 @@
                 (08/28 10:30)
             </td>
             <td>
-                섹션 5. 연관관계 매핑 기초 <code>전체</code> 
+                섹션 5. <code> 양방향 연관관계와 연관관계의 주인 2 - 주의점, 정리 </code> <br />
+                섹션 6. 다양한 연관관계 매핑 <code>전체</code> 
             </td>
             <td>
                 -
@@ -104,7 +106,7 @@
                 (09/04 10:30)
             </td>
             <td>
-                섹션 6. 다양한 연관관계 매핑 <code>전체</code> 
+                섹션 7. 고급 매핑 <code>전체</code> 
             </td>
             <td>
                 -
@@ -116,10 +118,10 @@
                 (09/11 10:30)
             </td>
             <td>
-                섹션 7. 고급 매핑 <code>전체</code> 
+                섹션 8. 프록시와 연관관계 관리 <code>전체</code> 
             </td>
             <td>
-                -
+                (추석 Self Study)
             </td>
         </tr>
         <tr>
@@ -128,7 +130,7 @@
                 (09/18 10:30)
             </td>
             <td>
-                섹션 8. 프록시와 연관관계 관리 <code>전체</code> 
+                섹션 9. 값 타입 <code>전체</code> 
             </td>
             <td>
                 -
@@ -140,7 +142,7 @@
                 (09/25 10:30)
             </td>
             <td>
-                섹션 9. 값 타입 <code>전체</code> 
+                섹션 10. 객체지향 쿼리 언어1 - 기본 문법 <code>전체</code> 
             </td>
             <td>
                 -
@@ -150,18 +152,6 @@
             <td> 
                 Week 8 <br />
                 (10/02 10:30)
-            </td>
-            <td>
-                섹션 10. 객체지향 쿼리 언어1 - 기본 문법 <code>전체</code> 
-            </td>
-            <td>
-                -
-            </td>
-        </tr>
-        <tr>
-            <td> 
-                Week 9 <br />
-                (10/09 10:30)
             </td>
             <td>
                 섹션 11. 객체지향 쿼리 언어2 - 중급 문법 <code>전체</code> 
@@ -207,3 +197,4 @@ A ~ D 타입 중에서 원하는 방식으로 준비하시면 됩니다.
     <h3> 로켓 학습 | JPA 정복반 </h3>
 </div>
 <hr />
+
