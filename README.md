@@ -30,8 +30,6 @@
     <td align="center"><a href="https://github.com/osj3474"><img src="https://avatars.githubusercontent.com/u/42775225?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sangjin Oh
 </b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Joylish"><img src="https://avatars.githubusercontent.com/u/52230415?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joylish</b></sub></a><br /></td>
-    <!-- <td align="center"><a href="https://github.com/yu-jin-song"><img src="https://avatars.githubusercontent.com/u/74666378?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yujin Song
-</b></sub></a><br /></td> -->
 </tr>
 </table>
 
