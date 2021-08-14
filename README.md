@@ -119,7 +119,7 @@
                 섹션 8. 프록시와 연관관계 관리 <code>전체</code> 
             </td>
             <td>
-                (추석 Self Study)
+                -
             </td>
         </tr>
         <tr>
@@ -131,7 +131,7 @@
                 섹션 9. 값 타입 <code>전체</code> 
             </td>
             <td>
-                -
+                (추석 Self Study)
             </td>
         </tr>
         <tr>
