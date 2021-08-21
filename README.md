@@ -82,7 +82,7 @@
                 섹션 5. <code> 양방향 연관관계와 연관관계의 주인 1- 기본 </code>
             </td>
             <td>
-                -
+                Covenant: <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week2-object-relational-mapping"> Object Relational Mapping </a>
             </td>
         </tr>
         <tr>
