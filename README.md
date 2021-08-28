@@ -20,6 +20,8 @@
 
 <br />
 
+<!-- 
+
 ## 😀 참가 맴버
 
 <table>
@@ -34,6 +36,8 @@
 </table>
 
 <br />
+
+-->
 
 ## 📅 일정
 
@@ -69,7 +73,7 @@
                 섹션 4. 엔티티 매핑 <code>데이터베이스 스키마 자동 생성 까지</code> <br />
             </td>
             <td>
-                Covenant: <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week1"> 하이버네이트, 캐시 </a>
+                <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week1"> Covenant: 하이버네이트, 캐시 </a>
             </td>
         </tr>
         <tr>
@@ -82,7 +86,7 @@
                 섹션 5. <code> 양방향 연관관계와 연관관계의 주인 1- 기본 </code>
             </td>
             <td>
-                Covenant: <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week2-object-relational-mapping"> Object Relational Mapping </a>
+                <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week2-object-relational-mapping"> Covenant: Object Relational Mapping </a>
             </td>
         </tr>
         <tr>
@@ -95,7 +99,7 @@
                 섹션 6. 다양한 연관관계 매핑 <code>전체</code> 
             </td>
             <td>
-                -
+                <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week3-entity-mapping-hexagonal-architecture-250068805"> Covenant: Entity Mapping / Hexagonal Architecture </a>
             </td>
         </tr>
         <tr>
