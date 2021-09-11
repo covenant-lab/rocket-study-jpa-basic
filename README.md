@@ -123,7 +123,7 @@
                 섹션 8. 프록시와 연관관계 관리 <code>전체</code> 
             </td>
             <td>
-                -
+                <a href="https://www.slideshare.net/ssuser8f4c99/great-step-2-tdd-mockmvc"> Covenant: GREAT STEP 2. TDD, MockMVC </a>
             </td>
         </tr>
         <tr>
