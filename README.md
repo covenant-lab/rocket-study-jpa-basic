@@ -111,7 +111,8 @@
                 섹션 7. 고급 매핑 <code>전체</code> 
             </td>
             <td>
-                <a href="https://www.slideshare.net/ssuser8f4c99/great-step-1"> Covenant: GREAT STEP 1. 테스트 코드를 향한 위대한 발걸음 </a>
+                <a href="https://www.slideshare.net/ssuser8f4c99/great-step-1"> Covenant: GREAT STEP 1. 테스트 코드를 향한 위대한 발걸음 </a><br />
+                <a href="week04/2lim/week4_고급매핑.pdf"> 2lim: week4_고급매핑 </a>
             </td>
         </tr>
         <tr>
