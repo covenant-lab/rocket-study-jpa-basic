@@ -125,6 +125,7 @@
             </td>
             <td>
                 <a href="https://www.slideshare.net/ssuser8f4c99/great-step-2-tdd-mockmvc"> Covenant: GREAT STEP 2. TDD, MockMVC </a>
+                <a href="week05/2lim/week5_프록시와연관관계관리.pdf"> 2lim: week5_프록시와연관관계관리 </a>
             </td>
         </tr>
         <tr>
