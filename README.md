@@ -148,7 +148,7 @@
                 섹션 10. 객체지향 쿼리 언어1 - 기본 문법 <code>전체</code> 
             </td>
             <td>
-                -
+                <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week4-value-types-cqrs-250291440"> Covenant: JPA Week4. VALUE TYPES / CQRS </a>
             </td>
         </tr>
         <tr>
