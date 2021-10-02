@@ -162,7 +162,8 @@
             </td>
             <td>
                 <a href="https://www.slideshare.net/ssuser8f4c99/jpa-week5-join-fetch-250352341"> Covenant: (1)JPA Week5. Join Fetch </a> <br />
-                <a href="https://www.slideshare.net/ssuser8f4c99/ss-250352367"> Covenant: (2)왜 개발자는 컴퓨터공학을 공부해야 할까? </a>
+                <a href="https://www.slideshare.net/ssuser8f4c99/ss-250352367"> Covenant: (2)왜 개발자는 컴퓨터공학을 공부해야 할까? </a> <br />
+                <a href="week08/2lim/week8_객체지향쿼리언어2.pdf"> 2lim: week8_객체지향쿼리언어2 </a>
             </td>
         </tr>
     </tbody>
